@@ -16,4 +16,4 @@ this will take about 3-5 minutes to install
   
   iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
   
-  Booting from ROM...```
+  Booting from ROM...
