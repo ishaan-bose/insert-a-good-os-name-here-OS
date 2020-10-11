@@ -7,5 +7,5 @@ You should download qemu-system-i386 with the following command:
 this will take about 3-5 minutes to install
 
   # Running the operating system
-  ```cd code/
-     ./build.sh```
+  ```cd code/```
+  ```./build.sh```
