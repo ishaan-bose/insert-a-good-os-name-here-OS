@@ -11,7 +11,7 @@ this will take about 3-5 minutes to install
   ```./build.sh```
   
   this will (or at least should) print out the following
-  ```YeaBios (version 1.13.0-1ubuntu1)
+  ``` YeaBios (version 1.13.0-1ubuntu1)
   
   iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
   
