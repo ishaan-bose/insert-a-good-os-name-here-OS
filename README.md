@@ -9,3 +9,10 @@ this will take about 3-5 minutes to install
   # Running the operating system
   run this command: ```cd code/``` then run this command:
   ```./build.sh```
+  
+  this will (or at least should) print out the following
+  ```YeaBios (version 1.13.0-1ubuntu1)
+  
+  iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
+  
+  Booting from ROM...```
