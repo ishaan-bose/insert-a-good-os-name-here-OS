@@ -6,6 +6,8 @@ You should download qemu-system-i386 with the following command:
 ```sudo apt-get install qemu-system-i386```
 this will take about 3-5 minutes to install
 
+Download the nasm assembler
+
   # Running the operating system
   run this command: ```cd code/``` then run this command:
   ```./build.sh```
