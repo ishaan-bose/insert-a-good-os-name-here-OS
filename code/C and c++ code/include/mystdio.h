@@ -12,7 +12,7 @@ void myprintf(string myString)
     for(uint16 i=0; i < stringlength(myString); i++)
     {
         videomemory[i*2] = myString[i];
-        videomemory[i+((i+1)%2)] = 0x07;
+        videomemory[(i*2)+1] = 0x07;
     }
     
 }
