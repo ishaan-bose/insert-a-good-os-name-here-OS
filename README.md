@@ -8,6 +8,9 @@ this will take about 3-5 minutes to install
 
 Download the nasm assembler with ''' sudo apt install nasm '''
 
+#Contributing
+always run on a virtual machine
+
   # Running the operating system
   run this command: ```cd code/``` then run this command:
   ```./build.sh```
