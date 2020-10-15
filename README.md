@@ -13,8 +13,8 @@ Download the nasm assembler with ''' sudo apt install nasm '''
   ```./build.sh```
   
   this will (or at least should) print out the following
-  ``` 
-  YeaBios (version 1.13.0-1ubuntu1)
+  ```            v~~~ the hello world ate some of the other text     
+  hello worldea  ion 1.13.0-1ubuntu1)
   
   iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
   
