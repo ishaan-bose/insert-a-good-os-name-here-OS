@@ -2,5 +2,6 @@
 
 void kernelmain()
 {
-    myprintf("hello world ");
+    clearScreen();
+    myprintf("hello world\n");
 }
