@@ -21,7 +21,8 @@ hello worldea  ion 1.13.0-1ubuntu1)
 
 iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
 
-Booting from ROM```
+Booting from ROM
+```
 
 #the tutorial i follow
 
