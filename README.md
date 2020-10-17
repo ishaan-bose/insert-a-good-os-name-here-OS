@@ -8,10 +8,10 @@ this will take about 3-5 minutes to install
 
 Download the nasm assembler with ``` sudo apt install nasm ```
 
-#Contributing
+# Contributing
 always run on a virtual machine
 
-#Running the operating system
+# Running the operating system
 run this command: ```cd code/``` then run this command:
 ```./build.sh```
   
@@ -24,7 +24,7 @@ iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
 Booting from ROM
 ```
 
-#the tutorial i follow
+# the tutorial i follow
 
 https://www.youtube.com/watch?v=rr-9w2gITDM&t=1463s
 
