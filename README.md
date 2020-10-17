@@ -25,5 +25,8 @@ hello world
 
 https://www.youtube.com/watch?v=rr-9w2gITDM&t=1463s
 
+another good (maybe better) tutorial:
+https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&index=1&t=121s
+
 I dont follow everything, i only learn how to do input output and some other stuff
 like my printf function wont match up with the tutorial, i defined it myself
