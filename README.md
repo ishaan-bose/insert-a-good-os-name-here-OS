@@ -10,6 +10,7 @@ Download the nasm assembler with ``` sudo apt install nasm ```
 
 # Contributing
 always run on a virtual machine
+read CONTRIBUTING.md
 
 # Running the operating system
 run this command: ```cd code/``` then run this command:
