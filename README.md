@@ -17,12 +17,8 @@ run this command: ```cd code/``` then run this command:
 ```./build.sh```
   
 this will (or at least should) print out the following
-```            v~~~ the hello world ate some of the other text     
-hello worldea  ion 1.13.0-1ubuntu1)
-
-iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
-
-Booting from ROM
+```     
+hello world
 ```
 
 # the tutorial i follow

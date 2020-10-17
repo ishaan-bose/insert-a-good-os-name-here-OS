@@ -26,11 +26,11 @@ void myprintf(string myString)
     string videomemory = (string)0xb8000; //the memory location in which we have to write text to so the 
     //virtual machine bios can read from and output to screen
     
-    for(uint16 i=0; i < stringlength(myString); i++)
+    for(uint16 i=0; i < stringlength(myString)+1; i++)
     {
         videomemory[i*2] = myString[i];
 
-        videomemory[(i*2)+1] = 0x07;
+        videomemory[(i*2)+1] = 0x03;// blue color
     }
     
 }
