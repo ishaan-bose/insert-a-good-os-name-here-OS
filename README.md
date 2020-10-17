@@ -22,3 +22,10 @@ always run on a virtual machine
   iPXE (http://ipxe.org) 00:03.0 and some text that is too long to type
   
   Booting from ROM...
+
+  #the tutorial i follow
+
+  https://www.youtube.com/watch?v=rr-9w2gITDM&t=1463s
+
+  I dont follow everything, i only learn how to do input output and some other stuff
+  like my printf function wont match up with the tutorial
