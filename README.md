@@ -27,5 +27,5 @@ hello world
 
   * current tutorial i am following: https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&index=1&t=121s
 
-I dont follow everything, i only learn how to do input output and some other stuff
-like my printf function wont match up with the tutorial, i defined it myself
+I dont follow everything, i only learn how to do input output and some other stuff.
+Example: my printf function wont match up with the tutorial, i defined it myself
