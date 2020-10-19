@@ -11,7 +11,7 @@ uint16 stringlength(string myString)
     
     for(length; myString[length] != '\n'; length++);
     
-    return --length;
+    return length;
 }
 
 #endif

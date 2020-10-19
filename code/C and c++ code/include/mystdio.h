@@ -7,8 +7,7 @@
 
 //===========Variable declarations====================
 int cursorX = 0, cursorY = 0;
-
-//						
+					
 const uint8 screenWidth = 80, screenHeight = 25, screenDepth = 2;	//screen Depth is set to 2 cuz 1 byte is for the letter and the other byte is the color of the character
 //===========Variable declarations====================
 
@@ -21,12 +20,12 @@ void clearScreen()
 }
 
 
-void myprintf(string myString)
+void printf(string myString)
 {
     string videomemory = (string)0xb8000; //the memory location in which we have to write text to so the 
     //virtual machine bios can read from and output to screen
     
-    for(uint16 i=0; i < stringlength(myString)+1; i++)
+    for(uint16 i=0; i < stringlength(myString); i++)
     {
         videomemory[i*2] = myString[i];
 

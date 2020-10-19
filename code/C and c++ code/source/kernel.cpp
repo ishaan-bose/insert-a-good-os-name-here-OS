@@ -4,6 +4,6 @@
 //function and not a cpp function, it wont compile without it
 extern "C" void kernelmain()
 {
-    clearScreen();
-    myprintf("hello world\n");
+    clearScreen(); //clear the screen first
+    printf("hello world\n");
 }
