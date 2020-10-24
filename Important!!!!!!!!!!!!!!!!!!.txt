@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/43180/what-are-some-resources-for-getting-started-in-operating-system-development
+
+https://craftinginterpreters.com/introduction.html#:~:text=You%20can't%20compile%20it,to%20compile%20your%20compiler%20once.
+
+https://craftinginterpreters.com/introduction.html
