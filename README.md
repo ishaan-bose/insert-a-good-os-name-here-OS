@@ -1,4 +1,4 @@
-# Ishaan-Bose-OS
+# insert-good-os-name-here-OS
 My Very own Operating System
 
 # What to do
