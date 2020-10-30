@@ -1,4 +1,6 @@
-# Ishaan-Bose-OS
+# insert-good-os-name-here-OS
+So you want to build an operating system from scratch, then this is(maybe) the right place.
+Is this a complete waste of time? probably.
 My Very own Operating System
 
 # What to do

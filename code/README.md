@@ -1,9 +1,9 @@
-#code
+# code
 this directory contains all the code files and etc for the OS
 please dont commit new files to the root directory(Ishaan-Bose-OS) unless you are commiting to the gitignore
 file or the README file or the CONTRIBUTING file
 
-#directories
+# directories
 	*binaries
 		*this folder contains the .o files that is compiled or assembled
 	*C and c++ code
