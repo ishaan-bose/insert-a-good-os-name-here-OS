@@ -6,6 +6,7 @@
 
 
 //===========Variable declarations====================
+//part of old tutorial
 int cursorX = 0, cursorY = 0;
 					
 const uint8 screenWidth = 80, screenHeight = 25, screenDepth = 2;	//screen Depth is set to 2 cuz 1 byte is for the letter and the other byte is the color of the character
