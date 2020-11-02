@@ -4,5 +4,5 @@
   *         OR
   * should know some c(or c++) programming
 * should read the comments if you dont understand anything
-*comment most of your code if not full code
+* comment most of your code if not full code
 * always commit to a new branch describing what you are doing
