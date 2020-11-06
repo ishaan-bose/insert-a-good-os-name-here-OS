@@ -1,7 +1,7 @@
 #ifndef STRING_H
 #define STRING_H
 
-#include "types.h"
+#include "types.hpp"
 
 const uint8 maxLettersInALine = 80;
 

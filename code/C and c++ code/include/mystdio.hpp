@@ -1,8 +1,8 @@
 #ifndef MYSTDIO_H
 #define MYSTDIO_H
 
-#include "types.h"
-#include "mystring.h"
+#include "types.hpp"
+#include "mystring.hpp"
 
 
 //===========Variable declarations====================
