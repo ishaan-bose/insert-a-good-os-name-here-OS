@@ -16,6 +16,7 @@ protected:
     Port8bit(uint16 portnumber);
     ~Port8bit();
     virtual void Write(uint8 data);
+    virtual uint8 Read();
 };
 
 class Port8bitSlow : public Port
@@ -24,7 +25,6 @@ protected:
     Port8bitSlow(uint16 portnumber);
     ~Port8bitSlow();
     virtual void Write(uint8 data);
-    virtual uint8 Read();
 };
 
 class Port16bit : public Port
