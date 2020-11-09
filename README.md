@@ -1,3 +1,6 @@
+# If you didn't already know
+there are many c++ file extensions. the most use4d is .cpp but .cc , .cxx are also c++ file extensions
+
 # insert-good-os-name-here-OS
 So you want to build an operating system from scratch, then this is(maybe) the right place.
 Is this a complete waste of time? probably.
